@@ -1,0 +1,4 @@
+Invoice_ID,Vendor_Name,Amount,Payment_Date,Item_Description,Quantity,Unit_Price
+INV-001,Global Tech Inc.,1500.00,2024-08-15,Laptop Power Adapter,2,75.00
+INV-002,Office Supplies Co.,45.50,2024-08-16,Box of Pens,5,9.10
+INV-003,Creative Solutions,300.00,2024-08-16,Logo Design Service,1,300.00

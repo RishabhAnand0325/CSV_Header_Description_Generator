@@ -1,0 +1,7 @@
+Invoice_ID -> A column named Invoice_ID is a database query.
+Vendor_Name -> The column name of a column is Vendor_Name.
+Amount -> Amount is a column in the
+Payment_Date -> The payment date is a date in the payment column.
+Item_Description -> item_description is a column in the item_description column.
+Quantity -> a column for a column
+Unit_Price -> The price of the index is 0.
